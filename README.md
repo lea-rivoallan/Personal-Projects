@@ -10,3 +10,9 @@ of China's capital controls and partial market integration.
 Exploratory analysis of a global supply chain dataset, combining a Principal Component
 Analysis (PCA) of continuous risk factors with a Random Forest regression to identify
 the strongest drivers of supplier delivery delays.
+
+# Global Longevity Gap & Pension Liability Modeling
+
+> Does national wealth change how much longer women live than men — and what does that gap cost a pension fund?
+This project combines a **cross-country regression** (World Bank data, 2021) with a **simple actuarial valuation**
+> to quantify the financial impact of the gender longevity gap on lifetime annuities.
