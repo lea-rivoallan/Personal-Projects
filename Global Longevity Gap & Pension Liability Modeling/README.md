@@ -24,6 +24,7 @@ This project combines a **cross-country regression** (World Bank data, 2021) wit
 ## Data
 
 World Bank, *World Development Indicators* — licensed under [CC BY 4.0](https://datacatalog.worldbank.org/public-licenses#cc-by).
+
 Pulled live from the [World Bank Indicators API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) for the year **2021** (no API key needed).
 
 | Variable | World Bank indicator |
