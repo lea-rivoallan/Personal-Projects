@@ -12,7 +12,6 @@ Analysis (PCA) of continuous risk factors with a Random Forest regression to ide
 the strongest drivers of supplier delivery delays.
 
 # Global Longevity Gap & Pension Liability Modeling
-
-> Does national wealth change how much longer women live than men — and what does that gap cost a pension fund?
+Does national wealth change how much longer women live than men — and what does that gap cost a pension fund?
 This project combines a **cross-country regression** (World Bank data, 2021) with a **simple actuarial valuation**
-> to quantify the financial impact of the gender longevity gap on lifetime annuities.
+to quantify the financial impact of the gender longevity gap on lifetime annuities.
