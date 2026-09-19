@@ -1,4 +1,5 @@
 # ***** University Studies cases *****
+Somme examples of studies cases.
 
 # Modeling EUR/CNY Volatility (vs. EUR/USD benchmark)
 Model and compare the volatility dynamics of EUR/CNY against the EUR/USD
