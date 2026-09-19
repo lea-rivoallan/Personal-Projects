@@ -23,6 +23,7 @@ This project combines a **cross-country regression** (World Bank data, 2021) wit
 
 ## Data
 
+World Bank, *World Development Indicators* — licensed under [CC BY 4.0](https://datacatalog.worldbank.org/public-licenses#cc-by).
 Pulled live from the [World Bank Indicators API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) for the year **2021** (no API key needed).
 
 | Variable | World Bank indicator |
@@ -81,8 +82,4 @@ An internet connection is required for the first cell, which downloads the data.
 - Use age-65 life expectancy (e.g. WHO / UN life tables) and survival-weighted annuity pricing.
 - Sensitivity analysis on the discount rate and the male baseline horizon.
 - Multi-year panel with fixed effects; add controls (health expenditure, education, urbanisation).
-
-## Data source
-
-World Bank, *World Development Indicators* — licensed under [CC BY 4.0](https://datacatalog.worldbank.org/public-licenses#cc-by).
 
